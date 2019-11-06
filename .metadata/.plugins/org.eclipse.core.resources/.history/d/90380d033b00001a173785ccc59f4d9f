@@ -7,8 +7,6 @@ public class Sample {
 		
 		System.out.println("This is my first program pushed to my remote repository");
 		
-		System.out.println("This is an a new change");
-		
 		
 		
 	}
