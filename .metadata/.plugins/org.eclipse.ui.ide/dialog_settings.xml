@@ -5,6 +5,8 @@
 		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\samir\eclipse-workspace\JavaBatchV"/>
+			<item value="C:\Users\samir\eclipse-workspace\Java Classes"/>
 			<item value="C:\Users\samir\eclipse-workspace\test1"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
